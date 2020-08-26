@@ -17,7 +17,6 @@ const FightLoading = (props) => {
   })
 
   const isButtonPressed = (e) => {
-    console.log(e.code)
     switch(e.code) {
       case 'KeyQ':
         isQPressed ? setQPressed(false) : setQPressed(true)
