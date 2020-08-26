@@ -1,0 +1,7 @@
+.App {
+  display: block;
+  text-align: center;
+  background-image: url('assets/images/SelectScreen.png');
+  background-size: cover;
+  padding-bottom: 10px;
+}
